@@ -10,7 +10,7 @@ A modern cybersecurity-themed password intelligence tool that evaluates password
 
 ## 📸 Preview
 
-!(assets/preview.png)
+![Can They Crack It](assets/preview.png)
 
 
 ## Live Demo
