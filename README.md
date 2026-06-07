@@ -23,7 +23,7 @@ Can They Crack It? was developed to help users understand the strength of their 
 
 ## Live Demo
 
-Visit the live project:
+Visit the live project : 
 
 https://jobsyshaji.github.io/CanTheyCrackIt/
 
