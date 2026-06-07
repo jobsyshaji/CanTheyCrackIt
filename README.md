@@ -10,14 +10,14 @@ A modern cybersecurity-themed password intelligence tool that evaluates password
 
 ## 📸 Preview
 
-![Can They Crack It](assets/preview.png)
+!(assets/preview.png)
 
 
-## 🌐 Live Demo
+## Live Demo
 
 https://jobsyshaji.github.io/CanTheyCrackIt/
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 CanTheyCrackIt/
@@ -30,7 +30,7 @@ CanTheyCrackIt/
     ├── hacker.png
 ```
 
-## 👨‍💻 Author
+## Author
 
 Jobsy Shaji
 
