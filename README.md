@@ -16,10 +16,6 @@ Can They Crack It? was developed to help users understand the strength of their 
 * CSS3
 * JavaScript
 
-## Preview
-
-![Can They Crack It](assets/preview.png)
-
 
 ## Live Demo
 
