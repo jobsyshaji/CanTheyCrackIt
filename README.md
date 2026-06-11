@@ -16,11 +16,12 @@ Can They Crack It? was developed to help users understand the strength of their 
 * JavaScript
 
 
-## Live Demo
+## Links
 
-Visit the live project : 
+- 🚀 Live Demo: [https://jobsyshaji.github.io/CanTheyCrackIt/](https://vercel.com/jobsysx8/can-they-crack-it)
+- 📂 Repository: https://github.com/jobsyshaji/CanTheyCrackIt
 
-can-they-crack-1q6ejv6gu-jobsysx8.vercel.app
+
 
 ## Project Structure
 
