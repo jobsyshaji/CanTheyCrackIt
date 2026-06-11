@@ -18,7 +18,7 @@ Can They Crack It? was developed to help users understand the strength of their 
 
 ## Links
 
-- 🚀 Live Demo: can-they-crack-botta2vqi-jobsysx8.vercel.app
+- 🚀 [Live Demo](can-they-crack-15ytvj7gu-jobsysx8.vercel.app)
 - 📂 Repository: https://github.com/jobsyshaji/CanTheyCrackIt
 
 
